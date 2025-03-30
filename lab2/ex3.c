@@ -42,4 +42,8 @@ system("chcp 65001");
     getchar();
     getchar();
     return 0; 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 08709d219dd762d3a88ef1b34c801be34e55447e
