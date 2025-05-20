@@ -3,6 +3,8 @@
         "stdio.h": "c",
         "ex3": "c",
         "stdlib.h": "c",
-        "math.h": "c"
+        "math.h": "c",
+        "distance.h": "c",
+        "string.h": "c"
     }
 }
