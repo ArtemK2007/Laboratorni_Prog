@@ -5,6 +5,8 @@
         "stdlib.h": "c",
         "math.h": "c",
         "distance.h": "c",
-        "string.h": "c"
+        "string.h": "c",
+        "calc.h": "c",
+        "input.h": "c"
     }
 }
