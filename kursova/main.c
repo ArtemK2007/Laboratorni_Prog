@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include "input.h"
 #include "calc.h"
-
 int main() {
     system("chcp 65001");
     InputData data;
@@ -13,7 +12,7 @@ int main() {
         return 1;
     }
     calculate_and_save(&data);
-    printf("Розрахунок завершено. Результати збережені в output.csv\n");
+    printf("Розрахунок завершено. Результати виведено в консоль.\n");
     getchar();
     getchar();
     return 0;
